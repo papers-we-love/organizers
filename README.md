@@ -10,6 +10,8 @@
 
 1. Use the chapter repo for discussions, local content and communication outside of Slack. Think of it as a resource to help with continuity - if you hand the chapter over to someone else in the future, they don't have to start from scratch.
 
+1. Once you have had your first meetup open an issue on the main [Papers We Love repo](https://github.com/papers-we-love/papers-we-love) letting us now and we will add you to the official chapters lists.
+
 ### General tips on running a chapter:
 
 * If you're having trouble securing a space or are in need of funding for a PWL event, please seek out sponsorship, as it can go a long way toward a chapter's continuity and longevity.
