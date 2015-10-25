@@ -15,10 +15,8 @@ Need help?
 
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
-- **Zeeshan Lakhani** [zeeshan@paperswelove.org](mailto:zeeshan@paperswelove.org)
-- **Clint Newsom** [clint@paperswelove.org](mailto:clint@paperswelove.org)
-- **Jeremy Heiler** (Github) [jeremy@paperswelove.org](mailto:jeremy@paperswelove.org)
-- **Darren Newton** (paperswelove.org) [darren@paperswelove.org](mailto:darren@paperswelove.org)
+- **Organizer name** [org@email.com](mailto:org@email.com)
+- **Organizer name** [org@email.com](mailto:org@email.com)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
