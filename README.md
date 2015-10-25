@@ -1,6 +1,6 @@
 # organizers
 
-## How to start a new Papers We Love chapter
+### How to start a new Papers We Love chapter
 
 **First things first**: Please read and abide by our [Code of Conduct](https://github.com/papers-we-love/papers-we-love/blob/master/CODE_OF_CONDUCT.md). This is very important.
 
