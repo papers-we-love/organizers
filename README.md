@@ -30,4 +30,4 @@
 
 * Get your meetup.com/fb/other group started and pull request a link to it in the repo's readme.
 
-* Once you have held your first meeting, let us know so we can add you to our list of active chapters. You will need to hold regular meetings to stay listed.
+* Once you have held your first meeting, create a pull request on the README adding your chapter, here's [an example](https://github.com/papers-we-love/papers-we-love/pull/367). **You will need to hold regular meetings to stay listed.**
