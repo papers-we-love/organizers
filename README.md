@@ -18,7 +18,7 @@
 
 * Get help. Organizing a group can be exhausting, the more you are the easier it gets (plus you'll never be at a loss for speaker/paper ideas).
 
-* One way to get help is to join our #startingapwl Slack channel by [signing-up](http://papersweloveslack.herokuapp.com/)!
+* One way to get help is to [join the #startingapwl channel on our Discord](https://discord.gg/tdpeA72xEP)!
 
 * Ask someone you're really excited about to talk. [Michael Bernstein's blog](http://michaelrbernste.in/) was exactly the kind of thing we thought embodied the Papers We Love ethos, i.e. working/practicing programmers with an interest in keeping one toe in academia.
 
